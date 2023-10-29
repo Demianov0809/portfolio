@@ -1,0 +1,8 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<circle style="fill:none;stroke:#fff;stroke-width:3;stroke-miterlimit:10;" cx="24" cy="24" r="18.5"/>
+<path style="fill:#fff;;" d="M17,29h4v13.235c0.979,0.16,1.976,0.265,3,0.265s2.021-0.105,3-0.265V29h3.625c0.504,0,0.93-0.376,0.992-0.876l0.375-3
+	c0.036-0.284-0.053-0.57-0.243-0.786C31.56,24.123,31.287,24,31,24h-4v-3.5c0-1.103,0.897-2,2-2h2c0.552,0,1-0.447,1-1v-3.375
+	c0-0.518-0.396-0.95-0.911-0.996C31.03,13.124,29.62,13,27.834,13C23.427,13,21,15.617,21,20.368V24h-4c-0.552,0-1,0.447-1,1v3
+	C16,28.553,16.448,29,17,29z"/>
+</svg>
